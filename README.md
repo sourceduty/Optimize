@@ -1,4 +1,4 @@
-![Optimized](https://github.com/user-attachments/assets/80201a43-5bdc-4b48-b31e-3c919fc9911f)
+![Optimized](https://github.com/user-attachments/assets/ec36e9fe-7570-486f-ba57-ef382cfa3177)
 
 > Calculating resources, time, or other limitations for the best possible solution to a problem.
 
