@@ -47,6 +47,8 @@ In the natural and social sciences, optimization is equally important. In biolog
 [Road Optimizer](https://github.com/sourceduty/Road_Optimizer)
 <br>
 [Group Optimizer](https://github.com/sourceduty/Group_Optimizer)
+<br>
+[3D Model Analysis](https://github.com/sourceduty/3D_Model_Analysis)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
